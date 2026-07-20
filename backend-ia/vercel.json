@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/analisar-pendencias.js": {
-      "maxDuration": 20
-    }
-  }
-}
